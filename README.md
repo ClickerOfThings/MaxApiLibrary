@@ -104,5 +104,5 @@ await baseClient.SendMessageAsync(new SendMessageRequest()
 Видео будет отправлено вместе с кнопками клавиатуры. Технически `Attachment` с видео будет добавлено после `Attachment`
 с клавиатурой.
 
-#### Лицензия
+### Лицензия
 Библиотека распространяется под лицензией [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
